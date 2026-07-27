@@ -1,0 +1,25 @@
+what is machine learning ? machine learning means computers learn patterns from data <END>
+what is a model ? a model is a program that learns patterns from data <END>
+what is training ? training means the model learns from examples in the data <END>
+what is a dataset ? a dataset is a collection of examples used for training <END>
+what is a feature ? a feature is an input value that describes an example <END>
+what is a label ? a label is the correct answer for an example <END>
+what is supervised learning ? supervised learning means training with features and labels together <END>
+what is unsupervised learning ? unsupervised learning means finding patterns in data without labels <END>
+what is a prediction ? a prediction is the output the model gives for new data <END>
+what is overfitting ? overfitting means the model memorizes training data and fails on new data <END>
+what is underfitting ? underfitting means the model is too simple to learn the patterns <END>
+what is a loss function ? a loss function measures how wrong the predictions are <END>
+what is an epoch ? an epoch is one full pass of training over the dataset <END>
+what is a learning rate ? a learning rate controls how fast the model updates during training <END>
+what is a neural network ? a neural network is a model made of layers of connected units <END>
+what is a weight ? a weight is a number inside the model that training updates <END>
+what is gradient descent ? gradient descent updates weights step by step to reduce the loss <END>
+what is a test set ? a test set is data kept aside to check the model on new data <END>
+what is classification ? classification means predicting a category for an example <END>
+what is regression ? regression means predicting a number for an example <END>
+what is an embedding ? an embedding is a list of numbers that represents a word <END>
+what is a transformer ? a transformer is a neural network that uses attention to learn from sequences <END>
+what is attention ? attention lets the model focus on important words in the input <END>
+what is a token ? a token is a small unit of text such as a word <END>
+what is generalization ? generalization means the model works well on new data <END>
