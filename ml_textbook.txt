@@ -23,3 +23,8 @@ what is a transformer ? a transformer is a neural network that uses attention to
 what is attention ? attention lets the model focus on important words in the input <END>
 what is a token ? a token is a small unit of text such as a word <END>
 what is generalization ? generalization means the model works well on new data <END>
+what is reinforcement learning ? reinforcement learning is a method for programs to make decisions using rewards <END>
+what is deep learning ? deep learning models use multiple layers to perform tasks <END>
+what is a neuron ? a neuron takes many inputs and uses weights and biases and an activation function to produce an output <END>
+what is an activation function ? an activation function is how neurons produce an output <END>
+what is preprocessing ? preprocessing prepares data for machine learning <END>
